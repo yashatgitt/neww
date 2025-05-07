@@ -1,12 +1,10 @@
 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
 
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
-cd yash
+
 git init
-git remote add origin https://github.com/yashatgitt/wadd
+git remote add origin https://github.com/yashatgitt/neww
 git add filename
 git add .
 git commit -m "Added my file"
 git push -u origin master
-git push -u origin main
+
